@@ -14,23 +14,6 @@ El proyecto consta de los siguientes archivos:
 - principios.html: Página que describe los principios del testing de software.
 - README.md: Este archivo, que contiene información sobre el proyecto.
 
-## Uso
-
-Para visualizar el sitio web, abra el archivo index.html en un navegador web. A continuación, puede navegar por las diferentes páginas utilizando el menú de navegación en la parte superior de cada página.
-
-# Examen de Tester
-
-Este proyecto consiste en una serie de archivos HTML, CSS y JavaScript que forman un sitio web básico sobre las habilidades, funciones y principios del testing de software.
-
-El proyecto está estructurado de la siguiente manera:
-
-- Index.html: Página principal del sitio web con una lista dinámica de tecnologías relacionadas con el testing de software.
-- funciones.html: Página que describe las funciones principales de un tester de software.
-- habilidades.html: Página que describe las habilidades clave necesarias para ser un tester exitoso.
-- principios.html: Página que explica los principios fundamentales del testing de software.
-- estilos.css: Hoja de estilos CSS que contiene los estilos aplicados a todas las páginas del sitio web.
-- main.js: Archivo JavaScript que contiene el código para crear dinámicamente la lista de tecnologías en la página principal (Index.html).
-
 ## Se requiere
 
 1. Estructura HTML5: Se han utilizado etiquetas semánticas de HTML5 en todos los archivos HTML.
