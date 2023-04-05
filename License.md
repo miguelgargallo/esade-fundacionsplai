@@ -1,4 +1,4 @@
-Pylar AI creative ML License 0.0.4
+Pylar AI creative ML License 0.0.4 [About](https://huggingface.co/spaces/superdatas/LICENSE)
 
 Copyright (c) 2023 Miguel Gargallo
 
